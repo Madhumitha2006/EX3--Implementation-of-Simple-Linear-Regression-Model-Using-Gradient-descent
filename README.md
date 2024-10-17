@@ -1,6 +1,5 @@
 # EX3 Implementation of Linear Regression Using Gradient Descent
 ## DATE:
-
 ## AIM:
 To write a program to implement the linear regression model with gradient descent.
 
@@ -49,7 +48,6 @@ print(f"Predicted value: {pre}")
 ## Output:
 
 ![image](https://github.com/user-attachments/assets/655c644b-ba76-49b3-bcc0-cafe9de21d95)
-
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
